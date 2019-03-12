@@ -1,10 +1,6 @@
-Wu, Guohua, et al. °∞Ensemble of Differential Evolution Variants.°± Information Sciences, vol. 423, 2018, pp. 172®C186.
-Storn, Rainer, and Kenneth V. Price. °∞Differential Evolution ®C A Simple and Efficient Heuristic for Global Optimization over Continuous Spaces.°± Journal of Global Optimization, vol. 11, no. 4, 1997, pp. 341®C359.
-
-Price, Kenneth. Differential Evolution - A Simple and Efficient Adaptive Scheme for Global Optimization over Continuous Spaces. 2004.
-
-Das, Swagatam, and Ponnuthurai Nagaratnam Suganthan. °∞Differential Evolution: A Survey of the State-of-the-Art.°± IEEE Transactions on Evolutionary Computation, vol. 15, no. 1, 2011, pp. 4®C31.
-
-Das, Swagatam, et al. °∞Recent Advances in Differential Evolution ®C An Updated Survey.°± Swarm and Evolutionary Computation, vol. 27, 2016, pp. 1®C30.
-
-Trivedi, Anupam, et al. °∞A Genetic Algorithm - Differential Evolution Based Hybrid Framework.°± Information Sciences, vol. 354, 2016, pp. 275®C300.
+Wu, Guohua, et al. ‚ÄúEnsemble of Differential Evolution Variants.‚Äù Information Sciences, vol. 423, 2018, pp. 172‚Äì186.
+Storn, Rainer, and Kenneth V. Price. ‚ÄúDifferential Evolution ‚Äì A Simple and Efficient Heuristic for Global Optimization over Continuous Spaces.‚Äù Journal of Global Optimization, vol. 11, no. 4, 1997, pp. 341‚Äì359.
+Price, Kenneth. Differential Evolution - A Simple and Efficient Adaptive Scheme for Global Optimization over Continuous Spaces. 2004.
+Das, Swagatam, and Ponnuthurai Nagaratnam Suganthan. ‚ÄúDifferential Evolution: A Survey of the State-of-the-Art.‚Äù IEEE Transactions on Evolutionary Computation, vol. 15, no. 1, 2011, pp. 4‚Äì31.
+Das, Swagatam, et al. ‚ÄúRecent Advances in Differential Evolution ‚Äì An Updated Survey.‚Äù Swarm and Evolutionary Computation, vol. 27, 2016, pp. 1‚Äì30.
+Trivedi, Anupam, et al. ‚ÄúA Genetic Algorithm - Differential Evolution Based Hybrid Framework.‚Äù Information Sciences, vol. 354, 2016, pp. 275‚Äì300.
