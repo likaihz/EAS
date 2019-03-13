@@ -1,0 +1,10 @@
+Wu, Guohua, et al. ※Ensemble of Differential Evolution Variants.§ Information Sciences, vol. 423, 2018, pp. 172每186.
+Storn, Rainer, and Kenneth V. Price. ※Differential Evolution 每 A Simple and Efficient Heuristic for Global Optimization over Continuous Spaces.§ Journal of Global Optimization, vol. 11, no. 4, 1997, pp. 341每359.
+
+Price, Kenneth. Differential Evolution - A Simple and Efficient Adaptive Scheme for Global Optimization over Continuous Spaces. 2004.
+
+Das, Swagatam, and Ponnuthurai Nagaratnam Suganthan. ※Differential Evolution: A Survey of the State-of-the-Art.§ IEEE Transactions on Evolutionary Computation, vol. 15, no. 1, 2011, pp. 4每31.
+
+Das, Swagatam, et al. ※Recent Advances in Differential Evolution 每 An Updated Survey.§ Swarm and Evolutionary Computation, vol. 27, 2016, pp. 1每30.
+
+Trivedi, Anupam, et al. ※A Genetic Algorithm - Differential Evolution Based Hybrid Framework.§ Information Sciences, vol. 354, 2016, pp. 275每300.
