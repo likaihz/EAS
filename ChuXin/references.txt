@@ -1,0 +1,3 @@
+Xie, Lingxi, and Alan Yuille. "Genetic cnn." Proceedings of the IEEE International Conference on Computer Vision. 2017.
+Such, Felipe Petroski, et al. "Deep neuroevolution: Genetic algorithms are a competitive alternative for training deep neural networks for reinforcement learning." arXiv preprint arXiv:1712.06567 (2017).
+Young, Steven R., et al. "Optimizing deep learning hyper-parameters through an evolutionary algorithm." Proceedings of the Workshop on Machine Learning in High-Performance Computing Environments. ACM, 2015.
