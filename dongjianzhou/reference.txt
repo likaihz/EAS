@@ -1,0 +1,4 @@
+Banzhaf, W., Nordin, P., Keller, R.E., Francone, F.D. (1997), Genetic Programming: An Introduction: On the Automatic Evolution of Computer Programs and Its Applications, Morgan Kaufmann
+Oltean, Mihai, and Crina Grosan. "A comparison of several linear genetic programming techniques." Complex Systems 14.4 (2003): 285-314.
+Bannister C A, Halcox J P, Currie C J, et al. A genetic programming approach to development of clinical prediction models: A case study in symptomatic cardiovascular disease[J]. PloS one, 2018, 13(9): e0202685.
+Hein F, Almeder C, Figueira G, et al. Designing new heuristics for the capacitated lot sizing problem by genetic programming[J]. Computers & Operations Research, 2018, 96: 1-14.
