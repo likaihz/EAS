@@ -1,0 +1,3 @@
+1. ZHAO Rui, CHEN Yun-hua, DENG Jiu-ying. Improved Bi-group Evolutionary Programming Algorithm. Computer Engineering, 2010, No. 18, Vol. 36.
+2. Kim J H, Myung H. Evolutionary programming techniques for constrained optimization problems[J]. IEEE Transactions on Evolutionary Computation, 1997, 1(2): 129-140.
+3. Liu Y, Yao X, Zhao Q, et al. Scaling up fast evolutionary programming with cooperative coevolution[C]//Proceedings of the 2001 Congress on Evolutionary Computation (IEEE Cat. No. 01TH8546). Ieee, 2001, 2: 1101-1108.
