@@ -1,0 +1,3 @@
+﻿[1] K. O. Stanley and R. Miikkulainen, "Efficient evolution of neural network topologies," Proceedings of the 2002 Congress on Evolutionary Computation. CEC'02 (Cat. No.02TH8600), Honolulu, HI, USA, 2002, pp. 1757-1762 vol.2. doi: 10.1109/CEC.2002.1004508
+[2] https://morvanzhou.github.io/tutorials/machine-learning/evolutionary-algorithm/4-01-neuro-evolution/
+
