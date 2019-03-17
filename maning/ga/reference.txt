@@ -1,5 +1,0 @@
-1.Adaptation in Natural and Artificial Systems£»MIT Press
-2.An Introduction to Genetic Algorithms£»Jenna Carr
-3.Safe Mutations for Deep and Recurrent Neural Networks through Output Gradients£»Joel Lehman, Jay Chen, Jeff Clune, and Kenneth O. Stanley
-4.Training Feedforward Neural Networks Using Genetic Algorithms £»David J. Montana and Lawrence Davis £»IJCAI
-5.Genetic Algorithms for Evolving Deep Neural Networks£»Eli (Omid) David£¬Iddo Greental£»ACM Genetic and Evolutionary Computation Conference (GECCO), pages 1451¨C1452, Vancouver, Canada, July 2014.
