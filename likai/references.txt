@@ -1,0 +1,7 @@
+Fetanat M, Haghzad S, Shouraki S B. Optimization of dynamic mobile robot path planning based on evolutionary methods[C]//2015 AI & Robotics (IRANOPEN). IEEE, 2015: 1-7.
+
+Contreras-Cruz M A, Ayala-Ramirez V, Hernandez-Belmonte U H. Mobile robot path planning using artificial bee colony and evolutionary programming[J]. Applied Soft Computing, 2015, 30: 319-328.
+
+Faridi A Q, Sharma S, Shukla A, et al. Multi-robot multi-target dynamic path planning using artificial bee colony and evolutionary programming in unknown environment[J]. Intelligent Service Robotics, 2018, 11(2): 171-186.
+
+Orozco-Rosas U, Montiel O, Sep¨²lveda R. Mobile robot path planning using membrane evolutionary artificial potential field[J]. Applied Soft Computing, 2019.

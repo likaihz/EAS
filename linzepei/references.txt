@@ -1,0 +1,4 @@
+参考文献:
+Introduction to Genetic Algorithms — Including Example Code  Author:Vijini Mallawaarachchi
+Rokach L. Genetic algorithm-based feature set partitioning for classification problems[J]. Pattern Recognition, 2008, 41(5): 1676-1700. 
+Zhan J, Li Y. Generalized finite spectral method for 1D Burgers and KdV equations[J]. Applied Mathematics and Mechanics, 2006, 27(12): 1635-1643.
