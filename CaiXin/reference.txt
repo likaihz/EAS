@@ -1,8 +1,0 @@
-https://wenku.baidu.com/view/7a747dd63186bceb19e8bbb7.html
-http://www.cs.cμ.edu/Groups/AI/util/html/faqs/ai/genetic/part2/faq-doc-4.html
-https://morvanzhou.github.io/tutorials/machine-learning/evolutionary-algorithm/4-04-evolution-strategy-reinforcement-learning/
-https://cloud.tencent.com/developer/article/1116845
-http://www.scholarpedia.org/article/Evolution_strategies
-Evolution strategies A comprehensive introduction http://www.cs.bham.ac.uk/~pxt/NIL/es.pdf
-Tim Salimans, Jonathan Ho, Xi Chen, Szymon Sidor, Ilya Sutskever, Evolution Strategies as a Scalable Alternative to Reinforcement Learning https://arxiv.org/abs/1703.03864
-
