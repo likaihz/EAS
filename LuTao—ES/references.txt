@@ -1,9 +1,8 @@
 Back, Thomas , F. Hoffmeister , and H. P. Schwefel . "A Survey of Evolution Strategies." International Conference on Genetic Algorithms 1991.
 
-Ingo Rechenberg. Evolutionsstrategie: Optimierung technischer Systeme nach Prinzipien der biologischen Evolution. Frommann-Holzboog Verlag, Stuttgart, 1973. 
+Hansen N . The CMA Evolution Strategy: A Tutorial[J]. 2005.
 
-Neumann, Gerhard , et al. "Contextual Covariance Matrix Adaptation Evolutionary Strategies." Ijcai 2017.
+Beyer H G . The theory of evolution strategies[M].
 
-Wierstra, D, et al. "Natural Evolution Strategies." Evolutionary Computation 2011.
+Auger A , Hansen N . Theory of evolution strategies: a new perspective[M]// Theory Of Randomized Search Heuristics:Foundations and Recent Developments. 2012.
 
-Salimans, Tim, et al. "Evolution Strategies as a Scalable Alternative to Reinforcement Learning." (2017).
