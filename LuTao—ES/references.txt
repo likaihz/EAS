@@ -2,7 +2,7 @@ Back, Thomas , F. Hoffmeister , and H. P. Schwefel . "A Survey of Evolution Stra
 
 Hansen N . The CMA Evolution Strategy: A Tutorial[J]. 2005.
 
-Beyer H G . The theory of evolution strategies[M].
-
 Auger A , Hansen N . Theory of evolution strategies: a new perspective[M]// Theory Of Randomized Search Heuristics:Foundations and Recent Developments. 2012.
+
+Schaul, Tom , et al. "Natural evolution strategies." Journal of Machine Learning Research 15.1(2014):949-980.
 
