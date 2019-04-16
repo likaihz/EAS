@@ -1,3 +1,3 @@
-1. ZHAO Rui, CHEN Yun-hua, DENG Jiu-ying. Improved Bi-group Evolutionary Programming Algorithm. Computer Engineering, 2010, No. 18, Vol. 36.
-2. Kim J H, Myung H. Evolutionary programming techniques for constrained optimization problems[J]. IEEE Transactions on Evolutionary Computation, 1997, 1(2): 129-140.
-3. Liu Y, Yao X, Zhao Q, et al. Scaling up fast evolutionary programming with cooperative coevolution[C]//Proceedings of the 2001 Congress on Evolutionary Computation (IEEE Cat. No. 01TH8546). Ieee, 2001, 2: 1101-1108.
+1. Sinha, N., Chakrabarti, R., & Chattopadhyay, P. K. (2003). Evolutionary programming techniques for economic load dispatch. IEEE Transactions on evolutionary computation, 7(1), 83-94.
+2. A. G. Bakirtzis, P. N. Biskas, C. E. Zoumas, and V. Petridis, ¡°Optimal power flow by enhance genetic algorithm,¡± IEEE Trans. Power Systems, vol. 17, pp. 229¨C236, May 2002.
+3. K. S. Swarup and S. Yamashiro, ¡°Unit commitment solution methodologies using genetic algorithm,¡± IEEE Trans. Power Syst., vol. 17, pp. 87¨C91, Feb. 2002.
