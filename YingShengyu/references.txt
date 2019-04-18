@@ -1,4 +1,3 @@
 参考文献
-1.Chiou J P, Wang F S. A hybrid method of differential evolution with application to optimal control problems of a bioprocess system[C]//1998 IEEE International Conference on Evolutionary Computation Proceedings. IEEE World Congress on Computational Intelligence (Cat. No. 98TH8360). IEEE, 1998: 627-632.
-2. Thomsen R. Multimodal optimization using crowding-based differential evolution[C]//Proceedings of the 2004 Congress on Evolutionary Computation (IEEE Cat. No. 04TH8753). IEEE, 2004, 2: 1382-1389.
-3. Aslantas V, Tunckanat M. Differential evolution algorithm for segmentation of wound images[C]//2007 IEEE International Symposium on Intelligent Signal Processing. IEEE, 2007: 1-5.
+Bouteldja, Mohamed Abdou, and Mohamed Batouche. "A study on differential evolution and cellular differential evolution for multilevel color image segmentation." 2017 Intelligent Systems and Computer Vision (ISCV). IEEE, 2017.
+
