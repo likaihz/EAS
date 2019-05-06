@@ -1,2 +1,4 @@
-Some Observations on the Interaction of Recombination and Self-Adaptation in Evolution Strategies https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=781992
-https://blog.csdn.net/u014248127/article/details/79143437
+Some Observations on the Interaction of Recombination and Self-Adaptation in Evolution Strategies 
+Back, Thomas , F. Hoffmeister , and H. P. Schwefel . "A Survey of Evolution Strategies." International Conference on Genetic Algorithms 1991.
+Conti E , Madhavan V , Such F P , et al. Improving Exploration in Evolution Strategies for Deep Reinforcement Learning via a Population of Novelty-Seeking Agents[J]. 2017.
+
